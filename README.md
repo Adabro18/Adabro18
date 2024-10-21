@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="600" height="300" alt="Star Wars Animation" />
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="600" height="300" alt="Star Wars Animation" style="border-radius: 15px; transition: transform 0.5s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 <p align="center">I am a **Full-Stack Developer** and **Cybersecurity Jedi** with a passion for building secure, scalable, and efficient solutions. I specialize in developing **frontend** and **backend** systems, while constantly honing my skills in **cybersecurity** and **bug hunting**. Join me in exploring the endless galaxies of code and technology.</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adabro18&theme=matrix&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Adabro18&theme=matrix&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" style="transition: transform 0.5s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
 </p>
 
 ---
@@ -33,7 +33,7 @@
 <h2 align="center">🚀 My Tech Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,angular,nodejs,docker,mysql,git,vscode,linux,heroku,azure&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,angular,nodejs,docker,mysql,git,vscode,linux,heroku,azure&theme=dark" alt="Skills" style="filter: drop-shadow(2px 2px 2px #333);" />
 </p>
 
 <p align="center">Languages and technologies I use to build and protect the galaxy.</p>
@@ -46,8 +46,8 @@
 
 <h2 align="center">📊 Galactic GitHub Stats</h2>
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adabro18&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adabro18&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adabro18&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true" alt="GitHub Stats" style="transition: transform 0.5s;" onmouseover="this.style.transform='translateY(-10px)';" onmouseout="this.style.transform='translateY(0)';" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adabro18&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats" style="transition: transform 0.5s;" onmouseover="this.style.transform='translateY(-10px)';" onmouseout="this.style.transform='translateY(0)';" />
 </div>
 
 ---
@@ -55,7 +55,7 @@
 <h2 align="center">💻 Recent Galactic Activity</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adabro18&theme=radical" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adabro18&theme=radical" alt="Profile Summary" style="transition: transform 0.5s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';" />
 </p>
 
 ---
@@ -74,10 +74,10 @@
 
 <p align="center">
   <a href="mailto:jidan18jidan@apps.ipb.ac.id">
-    <img src="https://img.shields.io/badge/Email-me%40email.com-red?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Email-me%40email.com-red?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email Badge" style="transition: transform 0.5s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
   </a>
   <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="transition: transform 0.5s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
   </a>
 </p>
 
@@ -88,7 +88,7 @@
 <p align="center">I can refactor code faster than a lightsaber strike! When I'm not deep in code, I'm hunting bugs like a true Jedi Master, defending the galaxy from cybersecurity threats.</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7ZeTmU77UlPyeR2w/giphy.gif" width="480" height="270" alt="Star Wars Lightsaber GIF" />
+  <img src="https://media.giphy.com/media/3o7ZeTmU77UlPyeR2w/giphy.gif" width="480" height="270" alt="Star Wars Lightsaber GIF" style="border-radius: 15px; transition: transform 0.5s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';" />
 </p>
 
 ---
