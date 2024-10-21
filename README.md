@@ -1,49 +1,53 @@
-<h1 align="center">Welcome to My Galactic Repository! 🌌</h1>
+<h1 align="center">Welcome, Jedi Developer! ⚔️</h1>
 <h3 align="center">Jidan Fatahillah (@Adabro18) | Full-Stack Developer | Cybersecurity Jedi | Bug Hunter 🛡️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Master+of+Code+in+the+Frontend+Galaxy;Guardian+of+the+Backend+Planet;Cybersecurity+Jedi;Building+Secure+Applications+for+the+Galaxy" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Master+of+Frontend+and+Backend+Development;Guardian+of+Secure+Applications;Cybersecurity+Jedi;Always+Learning%2C+Always+Building" alt="Typing Animation" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" height="300" alt="Star Wars Lightspeed Animation" />
+  <img src="https://media.giphy.com/media/lXiRKBj0SAA0EWvbG/giphy.gif" width="480" height="270" alt="Lightspeed Animation" />
 </p>
 
 ---
 
-## 🌌 **About Me:**
+<h2 align="center">🌌 About Me</h2>
+<p align="center">A Full-Stack Developer who navigates the galaxies of **Frontend**, **Backend**, and **Cybersecurity**. I use the force to create secure, scalable solutions and eliminate bugs, like a true Bug Hunter. My journey is one of continuous learning, striving to protect and improve the technological galaxy.</p>
 
-I am a passionate **Full-Stack Developer** who navigates through galaxies of **frontend** and **backend development**, fueled by a strong force in **cybersecurity** and **bug hunting**. With the wisdom of years and experience in **API development**, I have taken up the lightsaber to build and defend secure, scalable applications in the ever-expanding universe of code.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adabro18&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 - 🔭 **Current Missions**:
-   - A **spell-checking system** for production label designs at PT Amerta Indah Otsuka  
-   - **OCR systems** powered by **YOLO**  
-   - **Android apps** using **Jetpack Compose**  
-   - Exploring new worlds in **cybersecurity** and **bug bounty missions**.
+   - Building a **spell-checking system** for production label designs at PT Amerta Indah Otsuka  
+   - Creating **OCR systems** with **YOLO**  
+   - **Android Development** with **Jetpack Compose**  
+   - Exploring **Cybersecurity** and participating in **bug bounty programs**
 
-- 🌱 **Learning the Ways of the Force**:
-   - Advanced **Prisma ORM**  
-   - **API design** to withstand the test of time  
-   - Expanding skills in **Angular** and **Jetpack Compose**.
+- 🌱 **The Force Guides Me To Learn**:
+   - Advanced **API design** with **Prisma ORM**  
+   - Deeper knowledge of **Angular** and **Jetpack Compose**  
+   - Building machine-learning-powered **OCR systems**  
 
 ---
 
-<h2 align="center">⚔️ My Weapons of Choice</h2>
+<h2 align="center">⚔️ My Tech Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,angular,nodejs,docker,mysql,git,vscode,heroku,linux,azure&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,angular,nodejs,docker,mysql,git,vscode,linux,heroku,azure&theme=dark" alt="Skills" />
 </p>
 
-<h3 align="center">Languages and frameworks I wield in the coding universe:</h3>
+<p align="center">Languages and frameworks that I wield:</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adabro18&layout=compact&theme=highcontrast" alt="Top Languages" />
 </p>
 
 ---
 
-<h2 align="center">📊 The Galactic Stats</h2>
+<h2 align="center">📊 Galactic GitHub Stats</h2>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adabro18&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
@@ -61,6 +65,7 @@ I am a passionate **Full-Stack Developer** who navigates through galaxies of **f
 ---
 
 <h2 align="center">🚀 Recent Jedi Missions</h2>
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#123](https://github.com/Adabro18/project/issues/123) in [Adabro18/project](https://github.com/Adabro18/project)
 2. 🎉 Merged PR [#456](https://github.com/Adabro18/project/pull/456) in [Adabro18/project](https://github.com/Adabro18/project)
@@ -69,7 +74,7 @@ I am a passionate **Full-Stack Developer** who navigates through galaxies of **f
 
 ---
 
-<h2 align="center">📫 Reach Me on the Galactic Network:</h2>
+<h2 align="center">📫 Reach Me Across the Galaxy</h2>
 
 <p align="center">
   <a href="mailto:jidan18jidan@apps.ipb.ac.id">
@@ -83,12 +88,11 @@ I am a passionate **Full-Stack Developer** who navigates through galaxies of **f
 ---
 
 <h2 align="center">⚡ Fun Fact</h2>
-<p align="center">
-  I can refactor your code faster than the Millennium Falcon can make the Kessel Run, and I’m always hunting down bugs in code like a true Jedi!
-</p>
+
+<p align="center">I can build a REST API faster than a TIE Fighter! When I'm not coding, I'm exploring the galaxies of cybersecurity and hunting down bugs like a true Jedi Knight.</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oz8xKaR836UJOYeOc/giphy.gif" width="480" height="270" alt="Star Wars Force GIF" />
+  <img src="https://media.giphy.com/media/3o7ZeTmU77UlPyeR2w/giphy.gif" width="480" height="270" alt="Star Wars Lightsaber GIF" />
 </p>
 
-<h3 align="center">May the Code be with You! 🚀</h3>
+<h3 align="center">May the Code Be with You! 🚀</h3>
