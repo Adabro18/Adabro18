@@ -1,62 +1,66 @@
-<h1 align="center">Welcome, Jedi Developer! ⚔️</h1>
+<h1 align="center">Welcome to My Galactic Hub! ⚔️</h1>
 <h3 align="center">Jidan Fatahillah (@Adabro18) | Full-Stack Developer | Cybersecurity Jedi | Bug Hunter 🛡️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Full-Stack+Warrior;Cybersecurity+Jedi+Master;API+Architect;Guardian+of+the+Backend;Frontend+Explorer;Always+Learning" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Futuristic+Developer;Frontend+Guardian;Backend+Architect;Cybersecurity+Jedi+Master;Always+Exploring+New+Galaxies" alt="Typing Animation" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="600" height="350" alt="Lightspeed Animation" />
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="600" height="300" alt="Star Wars Animation" />
 </p>
 
 ---
 
-<h2 align="center">⚡ About Me</h2>
-<p align="center">I am a **Full-Stack Developer** with a deep understanding of **Frontend**, **Backend**, and **Cybersecurity**. Armed with a lightsaber of code, I build secure, scalable apps, eliminate bugs, and constantly explore new galaxies in the coding universe.</p>
+<h2 align="center">🌌 About Me</h2>
+<p align="center">I am a **Full-Stack Developer** and **Cybersecurity Jedi** with a passion for building secure, scalable, and efficient solutions. I specialize in developing **frontend** and **backend** systems, while constantly honing my skills in **cybersecurity** and **bug hunting**. Join me in exploring the endless galaxies of code and technology.</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adabro18&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Adabro18&theme=matrix&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
-
-- 🔭 **Current Missions**:
-   - Building a **spell-checking system** for label designs at PT Amerta Indah Otsuka  
-   - Developing **OCR systems** powered by **YOLO**  
-   - Exploring **Android Development** with **Jetpack Compose**  
-   - Participating in **cybersecurity** and **bug bounty** challenges
-
-- 🌱 **The Force Guides My Learning**:
-   - Mastering **API design** with **Prisma ORM**  
-   - Improving expertise in **Angular** and **Jetpack Compose**  
-   - Delving into **Machine Learning**-powered OCR systems
 
 ---
 
-<h2 align="center">⚔️ My Arsenal of Tech</h2>
+### 🔭 **Current Galactic Missions:**
+- Developing a **spell-checking system** for production label designs at PT Amerta Indah Otsuka  
+- Building **OCR systems** powered by **YOLO**  
+- Mastering **Jetpack Compose** for Android development  
+- Exploring **cybersecurity challenges** and **bug bounty programs**
+
+---
+
+<h2 align="center">🚀 My Tech Arsenal</h2>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,angular,nodejs,docker,mysql,git,vscode,linux,heroku,azure&theme=dark" alt="Skills" />
 </p>
 
+<p align="center">Languages and technologies I use to build and protect the galaxy.</p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adabro18&layout=compact&theme=vision-friendly-dark&card_width=445" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adabro18&layout=compact&theme=chartreuse-dark&card_width=445" alt="Top Languages" />
 </p>
 
 ---
 
 <h2 align="center">📊 Galactic GitHub Stats</h2>
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adabro18&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adabro18&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+<h2 align="center">💻 Recent Galactic Activity</h2>
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adabro18&show_icons=true&theme=vision-friendly-dark&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adabro18&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adabro18&theme=radical" alt="Profile Summary" />
 </p>
 
 ---
 
-<h2 align="center">🚀 My Recent Galactic Missions</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adabro18&theme=solarized_dark" alt="GitHub Profile Summary" />
-</p>
+<h2 align="center">🛸 Recent Jedi Missions</h2>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#123](https://github.com/Adabro18/project/issues/123) in [Adabro18/project](https://github.com/Adabro18/project)
@@ -66,7 +70,7 @@
 
 ---
 
-<h2 align="center">📫 Holocomm - Connect Across the Galaxy</h2>
+<h2 align="center">📫 Connect Across the Galaxy</h2>
 
 <p align="center">
   <a href="mailto:jidan18jidan@apps.ipb.ac.id">
@@ -81,10 +85,16 @@
 
 <h2 align="center">⚡ Fun Fact</h2>
 
-<p align="center">I can refactor code faster than a Star Destroyer can cross the galaxy! When I'm not building or debugging apps, I'm exploring the deepest reaches of cybersecurity to defend the galaxy from vulnerabilities.</p>
+<p align="center">I can refactor code faster than a lightsaber strike! When I'm not deep in code, I'm hunting bugs like a true Jedi Master, defending the galaxy from cybersecurity threats.</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/9oF2Q7vZqmej8/giphy.gif" width="480" height="270" alt="Star Wars Animated GIF" />
+  <img src="https://media.giphy.com/media/3o7ZeTmU77UlPyeR2w/giphy.gif" width="480" height="270" alt="Star Wars Lightsaber GIF" />
 </p>
 
+---
+
 <h3 align="center">May the Code Be with You! 🚀</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="divider" width="100%">
+</p>
